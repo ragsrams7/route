@@ -1,0 +1,25 @@
+#	Name	Type	Description	Installation	Reference	Notes
+1	Visual Studio .NET 2015	Core	Development environment for .NET applications	Image		
+2	ASP.NET 5.0/Core 1.0	Core	Framework for building Web Applications using .NET			
+3	ASP.NET MVC 6.0	Core	Framework for developing web applications using Model View Controller pattern			Part of ASP.NET 5.0
+4	ASP.NET Web API 2	Core	Framework for developing HTTP services to get data from resource (Database)			Part of ASP.NET 5.0
+5	Entity Framework 6.1.3	Core	Object-relational mapper (ORM) that enables to work with relational data using domain-specific objects.	NuGet Package Manager		
+6	C # .NET	Core	Development software language			Part of Visual Studio.NET
+7	Bootstrap 3.3.5	Core	HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.		http://getbootstrap.com/getting-started/#examples	Part of ASP.NET 5.0
+8	jQuery 2.1.4	Core	jQuery is a fast, small, and feature-rich JavaScript library		https://jquery.com/	Part of ASP.NET 5.0
+9	JSON.NET	Tool	JSON framework for .NET			Part of ASP.NET 5.0
+10	AutoMapper 3.2.1	Tool	AutoMapper is an object-object mapper and helps transform an input object of one type into an output object of a different type	NuGet Package Manager	http://cpratt.co/using-automapper-creating-mappings/	
+11	RestSharp	Tool	Tool to consume a WebAPI	NuGet Package Manager	https://visualstudiomagazine.com/articles/2015/10/01/consume-a-webapi.aspx	
+12	REDIS Cache	Tool	Redis is an open source, in-memory data structure store, used as database, cache and message broker	NuGet Package Manager		Server Installation
+13	Unity 4.0.1	Tool	Unity is a dependency injection container for developing loosely-coupled applications	NuGet Package Manager	https://msdn.microsoft.com/en-us/library/dn178470(v=pandp.30).aspx	
+14	Postman	Tool	Tool to test Web API - Helps to construct simple as well as complex requests quickly, save them for later use and analyze the responses sent by the API	Google Chrome Extension	https://www.getpostman.com/docs	
+15	Team Foundation Server (TFS) 2013/2015	Core	Application Lifecycle Managent using Agile Process			Server Installation
+16	INSPINIA	Template	Responsive dashboard template built with Bootstrap 3+ Framework, HTML5 and CSS3	wrapbootstrap.com	https://wrapbootstrap.com/theme/inspinia-responsive-admin-theme-WB0R5L90S	Paid template
+17	Glimpse	Tool	Glimpse provides visual profiling for web requests as they happen for MVC	NuGet Package Manager	http://getglimpse.com/Docs/	
+18	MiniProfiler	Tool	Middleware that displays speed badge for every html page	NuGet Package Manager	http://miniprofiler.com/	
+19	MOQ	Tool	Mocking framework for .NET to test	NuGet Package Manager	https://github.com/Moq/moq4/wiki/Quickstart	
+20	Common.Logging	Tool	Logging platform	NuGet Package Manager	http://netcommon.sourceforge.net/docs/2.1.0/reference/html/index.html	
+21	Log4Net	Tool	log4net library is a tool to output log statements to a variety of output target	NuGet Package Manager	https://logging.apache.org/log4net/release/manual/introduction.html	
+22	Nlog	Tool	NLog library is a tool to output log statements to a variety of output target	NuGet Package Manager	https://github.com/nlog/nlog/wiki	
+23	PIWIK	Tool	Analystics platform for Intranet applications (Similar to Google Analytics)		http://piwik.org/docs/	
+24	JWT	Tool	JSON Web Token (JWT) is an open standard that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. Used for Authentication & Information Exchang.		http://jwt.io/introduction/	
